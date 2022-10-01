@@ -22,7 +22,7 @@ svgStagger.from(
   ".bolt polygon",
   {
     opacity: 0,
-    duration: 0.3,
+    duration: 0.35,
     stagger: 0.02,
     ease: "power3.in"
   },
